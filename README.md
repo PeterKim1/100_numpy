@@ -14,4 +14,4 @@ Reference: https://github.com/rougier/numpy-100
 
 
 
-시작일: 2021-04-05
+시작일: 2021-04-13
